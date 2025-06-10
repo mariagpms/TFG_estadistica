@@ -5,4 +5,4 @@ Este repositorio de GitHub contiene el código empleado para los análisis desar
   - la comparación entre ambos algoritmos,
   - la evaluación del efecto de la semilla,
   - y la aplicación jerárquica de FlowSOM, incluyendo solo los marcadores esenciales o con todos los disponibles.
-- [Figuras] incluye la *manual gating completa* y los *heatmaps* de expresión para flowMeans (automático y óptimo) y FlowSOM (óptimo) el conjunto de datos del IBGM.
+- [Figuras](Figuras) incluye la *manual gating completa* y los *heatmaps* de expresión para flowMeans (automático y óptimo) y FlowSOM (óptimo) el conjunto de datos del IBGM.
